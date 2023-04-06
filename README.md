@@ -30,8 +30,3 @@
 **People_Analytics** 
 
 **Dashboard -** https://github.com/deborahjori/Dashboards/blob/main/Dashboard_RH.pdf
-
-
-
-
-
